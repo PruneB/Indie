@@ -1,0 +1,26 @@
+XXXXXXXXXXXXXXXXXXX
+R#################R
+R #R###     ###R# R
+R ####RRR0RRR#### R
+R###R###R R###R###R
+R#R## RRRRRRR ##R#R
+R####  1RRR2  ####R
+R#R## RRRRRRR ##R#R
+R#######R3R#######R
+RR####RRR RRR####RR
+R #####      #### R
+R ####R######R### R
+XXXXXXXXXXXXXXXXXXX
+
+1
+1
+25.000000
+1
+1
+25.000000
+1
+1
+25.000000
+1
+1
+25.000000
